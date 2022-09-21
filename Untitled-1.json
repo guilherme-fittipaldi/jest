@@ -1,0 +1,10 @@
+[
+  { "area": 101, "city": "santos", "price": 100, "type": "casa" },
+  { "area": 75, "city": "guaruja", "price": 200, "type": "casa" },
+  { "area": 11, "city": "santos", "price": 200, "type": "casa" },
+  { "area": 35, "city": "guaruja", "price": 20, "type": "casa" },
+  { "area": 101, "city": "santos", "price": 100, "type": "apartamento" },
+  { "area": 75, "city": "guaruja", "price": 200, "type": "apartamento" },
+  { "area": 11, "city": "santos", "price": 200, "type": "apartamento" },
+  { "area": 35, "city": "guaruja", "price": 20, "type": "apartamento" }
+]

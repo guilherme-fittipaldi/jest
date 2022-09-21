@@ -2,7 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "web/app.js",
   "scripts": {
     "test": "jest"
   },
